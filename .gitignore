@@ -1,0 +1,48 @@
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables and virtual environments
+.env
+venv/
+.env/
+*.env
+*.pyenv
+
+# Data files
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Output files
+outputs/
+*.h5
+*.pkl
+*.pkl.gz
+*.model
+*.log
+
+# Model checkpoints
+checkpoints/
+
+# Local configuration
+*.local
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other stuff
+.jupyter/*
+.virtual_documents/*
